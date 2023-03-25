@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885176186416",
+    "project_id": "fir-analyict",
+    "storage_bucket": "fir-analyict.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885176186416:android:7e385d981db668b6c3dff5",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885176186416-un6gbjqbj08vfs4h6krilg1kjp0p8sv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihey8Aw0Pwu0WuJ505Z1GX-wU1PSlj5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885176186416-un6gbjqbj08vfs4h6krilg1kjp0p8sv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
